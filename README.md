@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanchezleal1989
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python
 - 📫 How to reach me sanchezleal1989@gmail.com
 
 <!---

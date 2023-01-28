@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sanchezleal1989
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @rewired
+- I have some electronic basics, HTML, CSS and JavaScript.
+- 👀 I’m interested in Machine Learning, AI and Robotics.
+- 🌱 I'm currently at an intermediate level of Python.
 - 📫 How to reach me sanchezleal1989@gmail.com
 
 <!---
